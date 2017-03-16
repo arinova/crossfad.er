@@ -25,6 +25,18 @@ body {
   opacity: 1.0;
 }
 
+#filterCanvas{
+  position: absolute;
+  padding-right: 0;
+  padding-left: 0;
+  margin-top: -5px;
+  margin-right: 5px;
+  margin-left: 5px;
+  width:100%;
+  height:100%;
+  opacity: .6;
+}
+
 .youtube2 {
   position: absolute;
   padding-right: 0;
